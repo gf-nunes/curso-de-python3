@@ -8,4 +8,5 @@ descricao: texto
 categoria: CATEGORIA (outro model)
 
 CATEGORIA
-ID
+id: INT
+nome: STR * (obrigatorio)
